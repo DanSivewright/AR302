@@ -92,7 +92,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         
             let iPhoneScene = SCNScene(named: "art.scnassets/iPhoneX.scn")!
             iPhoneNode = iPhoneScene.rootNode.childNodes.first!
-            iPhoneNode.position = SCNVector3(0, 0, 0.15)
+            iPhoneNode.position = SCNVector3(0, 0, 0.07)
             
             let min = iPhoneNode.boundingBox.min
             let max = iPhoneNode.boundingBox.max
@@ -106,7 +106,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
             node.addChildNode(planeNode)
             planeNode.addChildNode(iPhoneNode)
             planeNode.addChildNode(iPhoneLight)
-            iPhoneNode.runAction(rotateObject())
+//            iPhoneNode.runAction(rotateObject())
             iPhoneNode.runAction(animator)
         }
      
