@@ -52,6 +52,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Paul Loots - [@paullootsdesign](https://www.instagram.com/paullootsdesign/) - paulloots@me.com
+Daniel Sivewright - [@daniel.sivewright](https://www.instagram.com/daniel.sivewright/?hl=en) - paulloots@me.com
 
-Project Link: [https://github.com/PaulLoots/SwipeCalc](https://github.com/PaulLoots/SwipeCalc)
+Project Link: [https://github.com/DanSivewright/AR302](https://github.com/DanSivewright/AR302)
