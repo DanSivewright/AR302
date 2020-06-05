@@ -5,13 +5,13 @@
   },
   "resources" : [
     {
-      "filename" : "bw_logo.arreferenceimage"
-    },
-    {
       "filename" : "IMG_1900.arreferenceimage"
     },
     {
       "filename" : "iPhoneX-red.arreferenceimage"
+    },
+    {
+      "filename" : "vexit_logo.arreferenceimage"
     }
   ]
 }
